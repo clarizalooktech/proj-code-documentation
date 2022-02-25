@@ -9,4 +9,5 @@
 4. Each team member have their code task (my role was to create a few functions on the web app server to display map reading from a json file), also did test cases for those functions
 5. Created test cases for quality of software based on the functions created on the web app and server
 6. Created individual code documentation for both code and test cases
+7. Software Product Pitching - https://youtu.be/4BGc4A2KKhU
 
