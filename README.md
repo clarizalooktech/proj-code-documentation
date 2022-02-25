@@ -1,6 +1,6 @@
 # proj-code-documentation
 - On our professional computing unit, we are tasked to create our professional software development portfolio involving entire SDLC process
-- by working with 5 people (having he same course) in the team to create a software 
+- by working with 5 people (all in Masters of IT) in the team to create a software 
 - Our client was the researchers in the agriculture department
 - Tasks performed:
 1. Requirements gathering from client (interviews/meetings with client; assessing their current system and process)
